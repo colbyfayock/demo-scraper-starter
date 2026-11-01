@@ -1,5 +1,23 @@
-# Demo Scraper Starter
+# Scraper Starter
 
+A starter project focused on scraper, built with Next.js.
+
+## Use this template
+
+```bash
+npx create-next-app -e https://github.com/colbyfayock/demo-scraper-starter
 ```
-npx create-next-app@latest -e https://github.com/colbyfayock/demo-scraper-starter my-scraper
+
+## Local setup
+
+Install dependencies with npm and start the development server:
+
+```bash
+npm install
+npm run dev
 ```
+
+Open [http://localhost:3000](http://localhost:3000) to view the app.
+
+Use `npm run build` to build the project.
+Use `npm run start` to run the production build.
